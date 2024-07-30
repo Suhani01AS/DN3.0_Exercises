@@ -1,5 +1,3 @@
-package com.example.singleton;
-
 public class SingletonTest {
     public static void main(String[] args) {
         // Get the instance of Logger

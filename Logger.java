@@ -1,5 +1,3 @@
-package com.example.singleton;
-
 public class Logger {
     private static Logger instance;
 
@@ -23,3 +21,4 @@ public class Logger {
         System.out.println(message);
     }
 }
+
